@@ -12,7 +12,7 @@ CloudVault is a modern Android application for secure file storage, management, 
 - **Notifications**: Welcome notification on login.
 
 ## Screenshots
-*Add screenshots or GIFs here to showcase the UI and features.*
+<img src="gradle/screenshots/slpashscreen.png" width="150" alt="Splash Screen"><img src="gradle/screenshots/login.png" width="150" alt="Log In"><img src="gradle/screenshots/home.png" width="150" alt="home Screen"><img src="gradle/screenshots/trash.png" width="150" alt="trash Screen"><img src="gradle/screenshots/profile.png" width="150" alt="profile Screen"><img src="gradle/screenshots/setting.png" width="150" alt="setting Screen">
 
 ## Technology Stack
 - **Kotlin** (Android)
