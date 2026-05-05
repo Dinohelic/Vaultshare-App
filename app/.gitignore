@@ -1,2 +1,23 @@
+# Build outputs
 /build
+*.apk
+*.aab
+*.aar
+
+# IDE
+*.iml
+.gradle
+
+# System files
+.DS_Store
+.thumbs.db
+
+# Sensitive files
 google-services.json
+*.keystore
+*.jks
+local.properties
+
+# Generated files
+.cxx/
+.externalNativeBuild/
